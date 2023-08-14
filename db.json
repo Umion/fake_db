@@ -4,55 +4,55 @@
       "id": 1,
       "title": "Tkalnia Dywanów",
       "category": "Photo",
-      "image": "1.jpg"
+      "image": "https://raw.githubusercontent.com/Umion/fake_db/main/images/1.jpg"
     },
     {
       "id": 2,
       "title": "Oakfusion",
       "category": "Design",
-      "image": "2.jpg"
+      "image": "https://raw.githubusercontent.com/Umion/fake_db/main/images/2.jpg"
     },
     {
       "id": 3,
       "title": "Ride & Travel",
       "category": "Photo",
-      "image": "3.jpg"
+      "image": "https://raw.githubusercontent.com/Umion/fake_db/main/images/3.jpg"
     },
     {
       "id": 4,
       "title": "Logo",
       "category": "Design",
-      "image": "4.jpg"
+      "image": "https://raw.githubusercontent.com/Umion/fake_db/main/images/4.jpg"
     },
     {
       "id": 5,
       "title": "Renner",
       "category": "Design",
-      "image": "5.jpg"
+      "image": "https://raw.githubusercontent.com/Umion/fake_db/main/images/5.jpg"
     },
     {
       "id": 6,
       "title": "2kul Interior Design",
       "category": "Design",
-      "image": "6.jpg"
+      "image": "https://raw.githubusercontent.com/Umion/fake_db/main/images/6.jpg"
     },
     {
       "id": 7,
       "title": "Typografia",
       "category": "Photo",
-      "image": "7.jpg"
+      "image": "https://raw.githubusercontent.com/Umion/fake_db/main/images/7.jpg"
     },
     {
       "id": 8,
       "title": "Designer Portfolio",
       "category": "Design",
-      "image": "8.jpg"
+      "image": "https://raw.githubusercontent.com/Umion/fake_db/main/images/8.jpg"
     },
     {
       "id": 9,
       "title": "Shifting Perspective",
       "category": "Branding",
-      "image": "9.jpg"
+      "image": "https://raw.githubusercontent.com/Umion/fake_db/main/images/9.jpg"
     }
   ]
 }
